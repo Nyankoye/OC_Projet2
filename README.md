@@ -1,7 +1,8 @@
 # Web Scraping
 Ce projet s’inscrit dans le cadre de la réalisation d’un script qui permet d’extraire toutes les données de tous les livres sur le site [Books to scrape](http://books.toscrape.com/)
 # Execution du code
- Pour exécuter ce code vous devez disposer de toutes les librairies nécessaires à son exécution pour cela vous devez :
+ Pour exécuter ce code vous devez disposer de tous les paquets nécessaires à son exécution pour cela vous devez :
  * Téléchargez le script et le fichier requirements.txt et les placer dans un dossier vide.
  * Créez un environnement virtuel en utilisant la commandes: python -m venv env
  * Activez l'environnement virtuel en utilisant la commandes source env/bin/activate 
+ * Installer les paquets Python répertoriés dans le fichier requirements.txt en utilisant la commande : pip install -r requirements.txt
