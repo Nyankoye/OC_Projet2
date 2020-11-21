@@ -5,4 +5,3 @@ Ce projet s’inscrit dans le cadre de la réalisation d’un script qui permet 
  * Téléchargez le script et le fichier requirements.txt et les placer dans un dossier vide.
  * Créez un environnement virtuel en utilisant la commandes: python -m venv env
  * Activez l'environnement virtuel en utilisant la commandes source env/bin/activate 
-Vous pouvez maintenant excuter le code  
