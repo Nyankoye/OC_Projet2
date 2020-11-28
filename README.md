@@ -6,3 +6,4 @@ Ce projet s’inscrit dans le cadre de la réalisation d’un script qui permet 
  * Créez un environnement virtuel en utilisant la commandes: python -m venv env
  * Activez l'environnement virtuel en utilisant la commandes: source env/bin/activate 
  * Installer les paquets Python répertoriés dans le fichier requirements.txt en utilisant la commande : pip install -r requirements.txt
+ * Pour lancer le programme utiliser la commande: python Script.py 
